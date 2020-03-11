@@ -1,5 +1,5 @@
 # Rails Blog
-
+rails generate scaffold Post title:string description:string --no-helper --no-jbuilder --no-javascripts --no-assets --no-scaffold-stylesheets --no-stylesheets --no-test-framework
 ## Instructions
 
 This is a simple lab. All you have to do is get the tests passing. There are a
